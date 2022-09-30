@@ -1,0 +1,9 @@
+.redwood
+dist
+*.md
+tmp
+api/types/*
+.github
+.yarn
+./index.js
+.vscode
